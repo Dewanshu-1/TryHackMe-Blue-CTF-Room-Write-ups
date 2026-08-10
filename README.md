@@ -58,7 +58,7 @@ Nmap done: 1 IP address (1 host up) scanned in 336.02 seconds
 ```
 ## Step 2 : ENUMERATION
 ### Searching on Web about the services
-![Dewanshu-1](TryHackMe-Blue-CTF-Room-Write-ups/img/SearchingForServiceVuln.png)
+![TryHackMe-Blue-CTF-Room-Write-ups](img/SearchingForServiceVuln.png)
 
 
 ### Verfying for the vulnerability in Metasploit
