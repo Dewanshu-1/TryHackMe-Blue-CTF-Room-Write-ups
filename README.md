@@ -5,7 +5,7 @@ This Machine contains vulnerability the MS17-010 security patch missing. Challen
 ## Step 1 : INFORMATION GATHERING
 ### nmap
 nmap -sV -sC -p- 10.48.181.86 --open 
-
+```
 Starting Nmap 7.95 ( https://nmap.org ) at 2026-08-10 04:10 EDT
 Nmap scan report for 10.48.181.86
 Host is up (0.41s latency).
@@ -55,7 +55,7 @@ Host script results:
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 336.02 seconds
-
+```
 ## Step 2 : ENUMERATION
 ### Searching on Web about the services
 
@@ -66,7 +66,7 @@ Nmap done: 1 IP address (1 host up) scanned in 336.02 seconds
 ## Step3 : EXPLOITATION 
 ### Metasploit
 msfconsole
-
+```
 [*] Starting persistent handler(s)...
 msf >
-
+```
